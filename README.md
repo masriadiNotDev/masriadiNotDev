@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Masriadi;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+   
+</div>
+
 <br clear="both">
 
 <img src="https://github.com/masriadiNotDev/masriadiNotDev/blob/main/github-contribution-grid-snake-dark%20(1).svg" alt="Snake animation" />
