@@ -15,6 +15,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/masriadiNotDev/masriadiNotDev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/masriadiNotDev/masriadiNotDev/blob/main/github-contribution-grid-snake-dark%20(1).svg" alt="Snake animation" />
 
 ###
