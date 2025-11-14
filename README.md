@@ -10,7 +10,6 @@
 ###
 
 <p align="center">
-  <h1 style="color:red;">MASRIADI</h1>
   <a href="https://instagram.com/msriadii_sisfo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6283137555097"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/adiganzxd"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
