@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img src="https://github.com/masriadiNotDev/masriadiNotDev/blob/main/github-contribution-grid-snake-dark%20(1).svg" alt="Snake animation" />
+
+###
+
 # Masriadi | 20YearsOld | SystemInformation | Unsulbar
 
 ## Social
@@ -13,8 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=masriadiNotDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-<img src="https://github.com/masriadiNotDev/masriadiNotDev/blob/main/github-contribution-grid-snake-dark%20(1).svg" alt="Snake animation" />
-
-###
