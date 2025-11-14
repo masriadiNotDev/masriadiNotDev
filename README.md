@@ -1,6 +1,6 @@
-#Masriadi | 20YearsOld | SystemInformation | Unsulbar
+# Masriadi | 20YearsOld | SystemInformation | Unsulbar
 
-##Social
+## Social
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serangbee@gmail.com) 
 
 #CodeLearning
